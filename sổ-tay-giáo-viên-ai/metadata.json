@@ -1,0 +1,5 @@
+{
+  "name": "Sổ Tay Giáo Viên AI",
+  "description": "Một ứng dụng web dành cho giáo viên tiểu học để quản lý lớp học, theo dõi hành vi của học sinh, ghi chú và nhận các đề xuất được hỗ trợ bởi AI để giải quyết các thách thức trong lớp học.",
+  "requestFramePermissions": []
+}
